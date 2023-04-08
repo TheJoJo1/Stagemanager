@@ -1,0 +1,27 @@
+@media(prefers-color-scheme:dark){   
+
+    body{
+        background-color: #888686;
+    }
+
+    #header{
+        color: #00467a;
+        text-align: center;
+    }
+}
+
+
+
+#header{
+    color: #008ff9;
+    text-align: center;
+}
+
+#invbutton{
+    color: black;
+    background-color: green;
+    border-radius: 5px;
+    line-height: 3;
+    font-size: xx-large;
+    border-left-width: thin;
+}
